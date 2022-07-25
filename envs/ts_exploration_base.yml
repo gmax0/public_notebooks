@@ -1,0 +1,18 @@
+name: ts_exploration_base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - pandas
+  - ipython
+  - matplotlib
+  - pyarrow
+  - plotly
+  - scipy
+  - statsmodels
+  - darts
+  - dtw-python
+  - fsspec
+  - paramiko

@@ -1,0 +1,13 @@
+name: parallel_comp_base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - jupyterlab
+  - python=3.8
+  - ipython
+  - pyarrow
+  - pandas
+  - fsspec
+  - dask
