@@ -16,3 +16,9 @@ dependencies:
   - dtw-python
   - fsspec
   - paramiko
+  - tslearn
+  - jupyter-resource-usage
+  - seaborn
+  - dtaidistance
+  - fastcluster
+  - dask
